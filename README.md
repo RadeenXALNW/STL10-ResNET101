@@ -41,7 +41,4 @@ This dataset used for training [Stanford AI](https://cs.stanford.edu/~acoates/st
 - [2](https://github.com/fchollet/deep-learning-models#readme)
 
 
-## Result
-
-![This is an image](https://files.fm/f/brt39z7gs)
 
