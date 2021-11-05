@@ -21,6 +21,9 @@
 ![This is an image](https://www.researchgate.net/profile/Jiayao-Chen-5/publication/348078198/figure/fig4/AS:974997896060929@1609469021477/The-structure-of-the-ResNet-101-based-deep-feature-extractor.png)
 
 
+[Contribution guidelines for this project](https://towardsdatascience.com/understanding-and-visualizing-resnets-442284831be8)
+
+
 # STL-10 Dataset
 
 ## Dataset: 
