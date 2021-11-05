@@ -43,5 +43,5 @@ This dataset used for training [Stanford AI](https://cs.stanford.edu/~acoates/st
 
 ## Result
 
-![This is an image](D:/deep learning research paper/cnn from scratch/New folder/New folder/Screenshot - 11_5_2021 , 10_16_43 PM.png)
+![This is an image](https://ibb.co/KWcbBH7)
 
