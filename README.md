@@ -34,5 +34,5 @@ This dataset used for training [Stanford AI](https://cs.stanford.edu/~acoates/st
 ### 100000 unlabeled images for unsupervised learning. These examples are extracted from a similar but broader distribution of images. For instance, it contains other types of animals (bears, rabbits, etc.) and vehicles (trains, buses, etc.) in addition to the ones in the labeled set.
 
 ## Contribution guidelines for this project
-*[1](https://towardsdatascience.com/understanding-and-visualizing-resnets-442284831be8)
-*[2](https://github.com/fchollet/deep-learning-models#readme)
+- [1](https://towardsdatascience.com/understanding-and-visualizing-resnets-442284831be8)
+- [2](https://github.com/fchollet/deep-learning-models#readme)
