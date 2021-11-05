@@ -20,10 +20,6 @@
 
 ![This is an image](https://www.researchgate.net/profile/Jiayao-Chen-5/publication/348078198/figure/fig4/AS:974997896060929@1609469021477/The-structure-of-the-ResNet-101-based-deep-feature-extractor.png)
 
-
-[Contribution guidelines for this project](https://towardsdatascience.com/understanding-and-visualizing-resnets-442284831be8)
-
-
 # STL-10 Dataset
 
 ## Dataset: 
@@ -36,3 +32,7 @@ This dataset used for training [Stanford AI](https://cs.stanford.edu/~acoates/st
 ### Images are 96x96 pixels, color.
 ### 500 training images (10 pre-defined folds), 800 test images per class.
 ### 100000 unlabeled images for unsupervised learning. These examples are extracted from a similar but broader distribution of images. For instance, it contains other types of animals (bears, rabbits, etc.) and vehicles (trains, buses, etc.) in addition to the ones in the labeled set.
+
+
+[Contribution guidelines for this project](https://towardsdatascience.com/understanding-and-visualizing-resnets-442284831be8)
+[and](https://github.com/fchollet/deep-learning-models#readme)
