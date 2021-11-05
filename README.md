@@ -39,3 +39,9 @@ This dataset used for training [Stanford AI](https://cs.stanford.edu/~acoates/st
 ## Contribution guidelines for this project
 - [1](https://towardsdatascience.com/understanding-and-visualizing-resnets-442284831be8)
 - [2](https://github.com/fchollet/deep-learning-models#readme)
+
+
+## Result
+
+![This is an image](D:/deep learning research paper/cnn from scratch/New folder/New folder/Screenshot - 11_5_2021 , 10_16_43 PM.png)
+
